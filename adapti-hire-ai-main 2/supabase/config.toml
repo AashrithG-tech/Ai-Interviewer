@@ -1,0 +1,4 @@
+project_id = "pqktikewemgruxngzamc"
+
+[functions.generate-interview-question]
+verify_jwt = false
